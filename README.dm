@@ -12,8 +12,6 @@ Progetto di edizione digitale del testo del Milione tramandato dal ms. Alexianus
             <title></title>
             <title type="s"></title>
             <editor></editor>
-            <editor></editor>
-            <editor></editor>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
