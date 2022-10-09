@@ -1,4 +1,4 @@
-<?teipublisher template="dantiscus.html" odd="dantiscus2.odd" view="page"?>
+<?teipublisher template="milionealessianodemo.html" odd="milionealessianodemo.odd" view="page"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -23,7 +23,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="print">
-                    <title></title>
+                    <title/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -33,7 +33,7 @@
                     <person xml:id="AL_pers_01">
                         <persName>Marco Polo</persName>
                         <note> (<hi>Marco Polo</hi>) (*1254 – †1324), 
-                            Mercante e viaggiatore veneziano</note>
+                            Mercante e viaggiatore veneziano.</note>
                     </person>
                 </listPerson>
             </particDesc>
@@ -52,7 +52,7 @@
     <text>
         <front>
             <div type="header">
-                <pb n="Alexianus I,3, f. 1r" facs=""/>
+                <pb n="Alexianus I,3, f. 1r" facs="img:AL1.jpeg"/>
                 <head>
                     <persName ref="AL_pers_01">Marco Polo</persName>
                 </head>
@@ -74,7 +74,7 @@
                     <p>
                         <seg type="incipit">[1]</seg> ‹P›ersia si è una gran provincia, la quale fue già mollto nobile secondo che ssi legge nello Alexandro. [2] Ora è molto distructa per lli Tartari. In Persia si è una città chiamata Sabba, dalla quale si partirono gli tre Magi che andarono ad adorare Cristo. [3] Essendo messer Marcho Polo in quella città, domandò le genti di quella terra della conditione di quelli tre Magi. [4] Ellino no·lli seppero rispondere niente di verità, se non che dissero in questo modo, se non che ffurono tre Re, li quali erano sepelliti i’ quelle tombe che sono da Sabba a tre giornate: si truova un chastello chyamato Pystayne, che tanto è a dire quanto luogho di quelli che adorano lo fuocho per loro Iddio. [5] Quando gli tre Magi si partirono di quella contrada disseno ch’ènno iti adorare uno profeta ch’era nelle contrade delli Giudei e presentarolli oro, incienso et mirra. [6] Et d’intorno a questa storia dichano di mollte bugie, et tra lle altre falsità sì dichono che quando si vollono partire dallo profeta, lo quale era mamolo di pochi dì, elli donò alli tre Magi uno bussilo et no·llo aperseno. [7] Quando ebbeno cavalcato parecchie dì ellino si apersero lo bussolo per volere vedere quello che vi fosse dentro. [8] Trovaronvi dentro una pietra et così dichano ch’ellino gittarono quella pietra in uno poçço, et altresì tosto come gittarono la pietra nello poçço disciese da cielo una fiamma di fuocho et entrò in quello poçço. [9] Allora li tre Re tolsero di quello fuocho et portaro·llo alla loro terra et adorano quello fuocho per loro Iddio. [10] Tucto questo dichano falsamente ma elli tenghano questa credença. [11] Et questo è la verità: che tucti quelli della contrada adorano quello fuocho et mai nollo lassano spengniare. [12] Et se pure avenisse ch’elli s’amortasse, ellino vanno agli altri che ànno di quello medesimo fuocho et adora·llo e sì e’ se ne fano dare. [13] Et di questo medesimo fuocho fanno ardere le lampane delle loro chiese. [14] Et in questo modo tornano a racciendere con quello le lampane ch’ellino tenghano in casa. [15] Et mai no·llo rapprendono con altro fuocho et mollte genti sono in quello errore.</p>
                 </div>
-            </div>
+            
             <div type="salutation">
                     <p>3 [TB 51]</p>
                 </div>
@@ -112,11 +112,9 @@
                 </div>
                 <div type="main_content">
                     <p>
-                        <seg type="incipit">[1]</seg>[1] ‹P›assato quello diserto trovaro una città chiamara Bichera, nobile et grande. [2] La provincia era chiamata Buchera. [3] Quivi regnava uno re chiamato Charochj. [4] La città è la migliore che ssia in tucta Persia. [5] In questa città dimoraro li due fratelli tre anni. Allora apparirono in quelal città ambasciadori, li quali erano mandati da un signore di Levante lo quale aveva nome Alayu, ch’elli mandava al signiore di tucti i Tartari, lo quale è appellato lo Gran Cane. [6] Et quando questi ambasciadori viddero questi due fratelli, ellino se ne fecero gran meraviglia et vidderoli volentieri, perciò che non ne avieno vedto mai più niuno ytaliano. [7] Alla fine favellando con loro dissero: «Se voi ci volete credere, voi potete acquistare grande honore e gran riccheççe», dicendo così: «Lo Gran Chane il signiore de’ Tartari non vidde mai alchuno ytaliano e àe gran voglia di vederne. [8] Perciò se volesse venire con noi, noi vi metteremo a·llui sani et salvi et sicuri, et faccianvi certi ch’elli vi farà grande honore et averete di questa venuta grande utilitade». [9] Quando li due fratelli intesero cotali parole, ebbero consiglio tra lloro et deliberarono andare co·lloro per arrivare alla corte dello Gran Chane. [10] Et così si missero et andarono insieme uno anno intero per Grecho e per Tramontana ançi ch’ellino giungessero |3r| alla terra dove era lo Grande Chane et per llo camino trovarono di mollte meravigliose chose le quali si conteranno in questo libro.</p>
+                        <seg type="incipit">[1]</seg> ‹P›assato quello diserto trovaro una città chiamara Bichera, nobile et grande. [2] La provincia era chiamata Buchera. [3] Quivi regnava uno re chiamato Charochj. [4] La città è la migliore che ssia in tucta Persia. [5] In questa città dimoraro li due fratelli tre anni. Allora apparirono in quelal città ambasciadori, li quali erano mandati da un signore di Levante lo quale aveva nome Alayu, ch’elli mandava al signiore di tucti i Tartari, lo quale è appellato lo Gran Cane. [6] Et quando questi ambasciadori viddero questi due fratelli, ellino se ne fecero gran meraviglia et vidderoli volentieri, perciò che non ne avieno vedto mai più niuno ytaliano. [7] Alla fine favellando con loro dissero: «Se voi ci volete credere, voi potete acquistare grande honore e gran riccheççe», dicendo così: «Lo Gran Chane il signiore de’ Tartari non vidde mai alchuno ytaliano e àe gran voglia di vederne. [8] Perciò se volesse venire con noi, noi vi metteremo a·llui sani et salvi et sicuri, et faccianvi certi ch’elli vi farà grande honore et averete di questa venuta grande utilitade». [9] Quando li due fratelli intesero cotali parole, ebbero consiglio tra lloro et deliberarono andare co·lloro per arrivare alla corte dello Gran Chane. [10] Et così si missero et andarono insieme uno anno intero per Grecho e per Tramontana ançi ch’ellino giungessero |3r| alla terra dove era lo Grande Chane et per llo camino trovarono di mollte meravigliose chose le quali si conteranno in questo libro.</p>
                 </div>
-               
             </div>
         </body>
     </text>
 </TEI>
-
