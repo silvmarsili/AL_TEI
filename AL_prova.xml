@@ -1,5 +1,5 @@
 <?teipublisher template="milionealessianodemo.html" odd="milionealessianodemo.odd" view="page"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
